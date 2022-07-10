@@ -18,3 +18,4 @@ This data dashboard is visualization of :
 ## Publication
 You can see my dashboard on :
 https://public.tableau.com/app/profile/larasati3115/viz/TableuDashboardSingaporeAirbnb/Dashboard
+![Dashboard](https://user-images.githubusercontent.com/71112016/178133102-280aa7fc-87fd-4ab6-9cda-e00875b76e78.png)
